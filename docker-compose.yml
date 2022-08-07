@@ -25,4 +25,4 @@ volumes:
       type: "nfs4"
       o: "fs-062233aae8b057b1e.efs.us-east-1.amazonaws.com"
       device: ":/mnt/efs_data/"
-ok123
+
