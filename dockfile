@@ -1,4 +1,4 @@
-FROM php:7.4-apache
+FROM php:7.4-apache 11
 WORKDIR /var/www/html
 
 # update packages
